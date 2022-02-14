@@ -1,3 +1,26 @@
-h1{
+html {
+    background-color: black;
     
+}
+h1{
+
+}
+nav h3 {
+    text-decoration: underline;
+    color: seashell;
+}
+header {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+header .nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo {
+    margin-left: 10px;
+    height: 50px;
 }
